@@ -1,0 +1,11 @@
+This Work Was done as part of an AI and machine learning module.
+A report was also written that will be accessible once it has been fully moderated
+
+
+Contributors 
+Ben Sturland - S16130489
+Suhan Ahmed - S16121660
+Marcin Pilarczyk - S16129348
+
+Dataset
+Fisher, R. (2017). Iris Species. [dataset] Kaggle.com. Available at: https://www.kaggle.com/uciml/iris [Accessed 18 Oct. 2018].
